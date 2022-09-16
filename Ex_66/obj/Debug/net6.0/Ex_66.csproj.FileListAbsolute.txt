@@ -1,0 +1,15 @@
+/Users/pavelipro/Documents/Обучение GB/MPV/Seminar_09/Tasks_09/Ex_66/obj/Debug/net6.0/Ex_66.csproj.AssemblyReference.cache
+/Users/pavelipro/Documents/Обучение GB/MPV/Seminar_09/Tasks_09/Ex_66/obj/Debug/net6.0/Ex_66.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelipro/Documents/Обучение GB/MPV/Seminar_09/Tasks_09/Ex_66/obj/Debug/net6.0/Ex_66.AssemblyInfoInputs.cache
+/Users/pavelipro/Documents/Обучение GB/MPV/Seminar_09/Tasks_09/Ex_66/obj/Debug/net6.0/Ex_66.AssemblyInfo.cs
+/Users/pavelipro/Documents/Обучение GB/MPV/Seminar_09/Tasks_09/Ex_66/obj/Debug/net6.0/Ex_66.csproj.CoreCompileInputs.cache
+/Users/pavelipro/Documents/Обучение GB/MPV/Seminar_09/Tasks_09/Ex_66/bin/Debug/net6.0/Ex_66
+/Users/pavelipro/Documents/Обучение GB/MPV/Seminar_09/Tasks_09/Ex_66/bin/Debug/net6.0/Ex_66.deps.json
+/Users/pavelipro/Documents/Обучение GB/MPV/Seminar_09/Tasks_09/Ex_66/bin/Debug/net6.0/Ex_66.runtimeconfig.json
+/Users/pavelipro/Documents/Обучение GB/MPV/Seminar_09/Tasks_09/Ex_66/bin/Debug/net6.0/Ex_66.dll
+/Users/pavelipro/Documents/Обучение GB/MPV/Seminar_09/Tasks_09/Ex_66/bin/Debug/net6.0/Ex_66.pdb
+/Users/pavelipro/Documents/Обучение GB/MPV/Seminar_09/Tasks_09/Ex_66/obj/Debug/net6.0/Ex_66.dll
+/Users/pavelipro/Documents/Обучение GB/MPV/Seminar_09/Tasks_09/Ex_66/obj/Debug/net6.0/refint/Ex_66.dll
+/Users/pavelipro/Documents/Обучение GB/MPV/Seminar_09/Tasks_09/Ex_66/obj/Debug/net6.0/Ex_66.pdb
+/Users/pavelipro/Documents/Обучение GB/MPV/Seminar_09/Tasks_09/Ex_66/obj/Debug/net6.0/Ex_66.genruntimeconfig.cache
+/Users/pavelipro/Documents/Обучение GB/MPV/Seminar_09/Tasks_09/Ex_66/obj/Debug/net6.0/ref/Ex_66.dll
